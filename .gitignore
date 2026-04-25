@@ -1,0 +1,57 @@
+# ----------------------
+# 🐍 Python cache files
+# ----------------------
+__pycache__/
+*.py[cod]
+*$py.class
+
+# ----------------------
+# 🧪 Virtual environment
+# ----------------------
+venv/
+env/
+.venv/
+
+# ----------------------
+# 🔐 Environment variables
+# ----------------------
+.env
+.env.*
+
+# ----------------------
+# 🧾 Logs & temp files
+# ----------------------
+*.log
+*.tmp
+
+# ----------------------
+# 🧠 IDE / Editor files
+# ----------------------
+.vscode/
+.idea/
+*.swp
+
+# ----------------------
+# 🧪 Test / coverage
+# ----------------------
+.coverage
+htmlcov/
+.pytest_cache/
+
+# ----------------------
+# 📦 Build / distribution
+# ----------------------
+build/
+dist/
+*.egg-info/
+
+# ----------------------
+# 🗄️ SQLite DB (if used locally)
+# ----------------------
+*.db
+*.sqlite3
+
+# ----------------------
+# 🚀 FastAPI / Uvicorn
+# ----------------------
+*.pid
